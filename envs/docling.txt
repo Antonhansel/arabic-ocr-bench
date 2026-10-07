@@ -1,0 +1,5 @@
+# Docling with its OCR backends, plus standalone EasyOCR (same torch install).
+docling
+easyocr
+rapidocr
+onnxruntime

@@ -1,0 +1,9 @@
+# Core env: dataset building, metrics, runner, report, and the light adapters
+# (tesseract CLI, Apple Vision via a compiled Swift tool, Gemini via REST).
+pdfminer.six
+pillow
+numpy
+rapidfuzz
+pytest
+fonttools
+pyarrow

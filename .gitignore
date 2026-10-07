@@ -1,0 +1,56 @@
+# environments, downloaded tools and model weights (re-created by scripts/)
+.venv/
+.venvs/
+venv/
+models/
+tools/llama.cpp/
+tools/bin/
+fonts/
+
+# downloaded inputs and everything built from them (scripts/download_data.py,
+# scripts/build_dataset.sh): PDFs, page images, transcriptions, ground truth
+data/pdfs/
+data/pages/
+data/synthetic/
+data/gt/
+data/external/
+data/realscans/
+
+# per-run files: OCR outputs, engine logs (API answers, costs), raw records.
+# Only results.csv and summary.md are published for each run.
+results/*/outputs/
+results/*/logs/
+results/*/raw.jsonl
+results/*/engines.json
+results/*/run.log
+results/*/DONE
+results/dev-*/
+results/paddle-diag/*.png
+logs/
+*.log
+
+# images, PDFs, archives and weights anywhere in the tree
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.webp
+*.pdf
+*.parquet
+*.lzma
+*.tgz
+*.gguf
+*.ttf
+*.otf
+
+# secrets
+.env
+.env.*
+*.pem
+*.key
+
+__pycache__/
+.pytest_cache/
+*.pyc
+.DS_Store

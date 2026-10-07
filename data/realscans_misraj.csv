@@ -1,0 +1,48 @@
+row,uuid,capture,layout,note
+10,dec1b1d7-c80d-4555-abf8-b704578584d7,scanned,single,
+19,843ed04e-b743-44c9-a7a5-0019f3fcdbd2,scanned,single,
+25,7fb4a661-e628-422b-891f-83aa0459cdee,scanned,single,black scanner border on the right
+26,2daf9be6-4f60-4dfe-8936-d9a6f987548d,scanned,single,
+27,b181ae59-300c-4ba9-8baa-2a842ca42b79,scanned,single,
+34,b3d8e057-55a5-4229-b2ba-103be8022376,scanned,single,
+39,eec3968c-77f1-4e0a-b063-e85af78de179,scanned,single,
+40,37f3c5ab-3d24-4f3b-a654-213b6d2e9a6c,scanned,single,
+41,3533b836-f155-4e0b-86ea-64ed0a3fb970,scanned,single,
+42,3e706186-5d98-4083-81e5-3e2c70d16b7a,scanned,single,
+44,75aee6e9-89d0-4a0a-a517-767be769b95d,scanned,single,
+45,1a3f43fb-6477-4774-a685-4dcdd8817430,scanned,single,
+54,66781087-0d48-498d-8a05-28eb96fb5d97,scanned,single,
+56,2251095e-dc19-47ac-ab5c-d7c270335e2b,scanned,single,
+59,47a8488b-7038-4d1c-976d-f8b543d43698,scanned,single,
+60,3cf524b1-4141-4b88-bed3-1604ef8ba21d,scanned,single,black scanner border on the right
+65,52f3d3bc-c1ae-47c9-9fc0-9ca6d94f7f25,scanned,single,
+66,040e0cfb-8182-49ac-8546-01c051948068,scanned,single,
+68,38c01ef3-e952-4df2-979d-183e08990f7a,scanned,single,
+70,cbf996b0-87fb-4469-9069-c1a371aa9aea,scanned,single,
+72,b7ab3a48-f715-486d-8de8-01bcf4d9d386,scanned,single,table
+73,83e36a38-6d66-4a8d-8ade-6168e4528ae1,scanned,single,
+76,5afea5dc-bd63-4244-9265-a4b70aa08485,scanned,single,
+77,e2f5d20b-ff83-4557-bdbf-912834b45ef0,scanned,single,table
+84,738226f8-a4a2-4325-925e-cf28388758c0,scanned,single,verse in two columns
+85,c7a4cd7d-0c5c-4d13-8f12-55c0cf514a83,scanned,single,
+87,f398f9a7-ad78-48db-9e30-9de65cc28b61,scanned,single,
+96,ba20b0d4-9ba1-4689-aa42-9e609edacce0,scanned,single,low resolution (514x715)
+97,ab081971-c83c-4661-880e-3f1bafbc47a1,scanned,single,
+99,ca9262ed-67dc-4405-8984-d31cbf315858,scanned,single,
+105,29700238-62c1-4fbd-801b-b59febe09632,photo,single,
+106,3e6a8b8c-ddff-41ce-b5e0-f682a23848e4,scanned,single,very large image (4445x5925)
+109,8f0894be-26b2-453e-b135-7077c0fbb7b3,scanned,single,
+111,99b382de-a18e-4220-87cf-290da62ddcc6,scanned,single,"yellowed paper, verse in two columns"
+112,ab29c803-e47b-4284-bbdd-83f45a2dc8af,scanned,single,very large image (4445x5925)
+116,70bacf37-2f63-4921-98e0-1bfd82f34afc,photo,single,
+119,6a93532e-fc88-4b85-b9ca-14d5b3c594ad,scanned,single,French and Arabic catalogue
+122,46f3e399-6c97-4b59-b7f9-6cdab9c713e0,photo,single,
+124,34e7e731-e797-4fb2-8d05-7c13205c34cf,photo,single,
+125,741ba709-1946-470f-b5d8-4b81e1bdaea8,scanned,single,
+135,1df6458c-7c65-47e7-9293-1b6e7dee59bb,photo,multi,"phone photo of an open book, two pages"
+136,7b731100-c800-4a1a-80d1-2b25a458cad4,photo,single,"phone photo of a book page, verse in two halves per line; a strip of the facing page shows on the left and is not transcribed"
+137,6f682bb1-90b8-4955-b1a6-80052f430339,scanned,single,
+139,4c8f92c9-5364-4103-9dc4-5394fe975a6f,photo,multi,"phone photo of an open book, two pages"
+142,1233d7ab-4d84-49f7-912a-b7e7674576fe,photo,single,
+143,f08647a9-786a-4a35-a090-fdbd4590354f,photo,multi,"phone photo of an open book, two pages"
+144,d33fa3f4-169b-4b4c-badf-e0e008be4728,photo,multi,"phone photo of an open book, two pages"

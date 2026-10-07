@@ -1,0 +1,242 @@
+[
+  {
+    "page": "yarmouk-1189",
+    "setting": "default",
+    "seconds": 37.1,
+    "image": [
+      2480,
+      3508
+    ],
+    "map": [
+      2496,
+      3520
+    ],
+    "map_max": 1.0,
+    "map_p999": 1.0,
+    "share_over_thresh": 0.23294,
+    "thresh": 0.3,
+    "box_thresh": 0.6,
+    "boxes": 0,
+    "chars": 0
+  },
+  {
+    "page": "yarmouk-12866",
+    "setting": "default",
+    "seconds": 32.4,
+    "image": [
+      2480,
+      3508
+    ],
+    "map": [
+      2496,
+      3520
+    ],
+    "map_max": 1.0,
+    "map_p999": 1.0,
+    "share_over_thresh": 0.21045,
+    "thresh": 0.3,
+    "box_thresh": 0.6,
+    "boxes": 0,
+    "chars": 0
+  },
+  {
+    "page": "yarmouk-1569",
+    "setting": "default",
+    "seconds": 40.5,
+    "image": [
+      2496,
+      3508
+    ],
+    "map": [
+      2496,
+      3520
+    ],
+    "map_max": 1.0,
+    "map_p999": 1.0,
+    "share_over_thresh": 0.09043,
+    "thresh": 0.3,
+    "box_thresh": 0.6,
+    "boxes": 37,
+    "chars": 1935
+  },
+  {
+    "page": "yarmouk-1189",
+    "setting": "long-side-960",
+    "seconds": 6.7,
+    "image": [
+      2480,
+      3508
+    ],
+    "map": [
+      672,
+      960
+    ],
+    "map_max": 1.0,
+    "map_p999": 1.0,
+    "share_over_thresh": 0.06736,
+    "thresh": 0.3,
+    "box_thresh": 0.6,
+    "boxes": 19,
+    "chars": 1109
+  },
+  {
+    "page": "yarmouk-12866",
+    "setting": "long-side-960",
+    "seconds": 6.6,
+    "image": [
+      2480,
+      3508
+    ],
+    "map": [
+      672,
+      960
+    ],
+    "map_max": 1.0,
+    "map_p999": 1.0,
+    "share_over_thresh": 0.0678,
+    "thresh": 0.3,
+    "box_thresh": 0.6,
+    "boxes": 20,
+    "chars": 1121
+  },
+  {
+    "page": "yarmouk-1569",
+    "setting": "long-side-960",
+    "seconds": 9.0,
+    "image": [
+      2496,
+      3508
+    ],
+    "map": [
+      672,
+      960
+    ],
+    "map_max": 1.0,
+    "map_p999": 1.0,
+    "share_over_thresh": 0.107,
+    "thresh": 0.3,
+    "box_thresh": 0.6,
+    "boxes": 26,
+    "chars": 1923
+  },
+  {
+    "page": "yarmouk-1189",
+    "setting": "long-side-1920",
+    "seconds": 13.6,
+    "image": [
+      2480,
+      3508
+    ],
+    "map": [
+      1344,
+      1920
+    ],
+    "map_max": 1.0,
+    "map_p999": 1.0,
+    "share_over_thresh": 0.06033,
+    "thresh": 0.3,
+    "box_thresh": 0.6,
+    "boxes": 22,
+    "chars": 1107
+  },
+  {
+    "page": "yarmouk-12866",
+    "setting": "long-side-1920",
+    "seconds": 13.7,
+    "image": [
+      2480,
+      3508
+    ],
+    "map": [
+      1344,
+      1920
+    ],
+    "map_max": 1.0,
+    "map_p999": 1.0,
+    "share_over_thresh": 0.06114,
+    "thresh": 0.3,
+    "box_thresh": 0.6,
+    "boxes": 18,
+    "chars": 1109
+  },
+  {
+    "page": "yarmouk-1569",
+    "setting": "long-side-1920",
+    "seconds": 15.6,
+    "image": [
+      2496,
+      3508
+    ],
+    "map": [
+      1376,
+      1920
+    ],
+    "map_max": 1.0,
+    "map_p999": 1.0,
+    "share_over_thresh": 0.09945,
+    "thresh": 0.3,
+    "box_thresh": 0.6,
+    "boxes": 33,
+    "chars": 1937
+  },
+  {
+    "page": "yarmouk-1189",
+    "setting": "thresh-0.15",
+    "seconds": 31.7,
+    "image": [
+      2480,
+      3508
+    ],
+    "map": [
+      2496,
+      3520
+    ],
+    "map_max": 1.0,
+    "map_p999": 1.0,
+    "share_over_thresh": 0.24587,
+    "thresh": 0.15,
+    "box_thresh": 0.6,
+    "boxes": 0,
+    "chars": 0
+  },
+  {
+    "page": "yarmouk-12866",
+    "setting": "thresh-0.15",
+    "seconds": 30.9,
+    "image": [
+      2480,
+      3508
+    ],
+    "map": [
+      2496,
+      3520
+    ],
+    "map_max": 1.0,
+    "map_p999": 1.0,
+    "share_over_thresh": 0.22622,
+    "thresh": 0.15,
+    "box_thresh": 0.6,
+    "boxes": 0,
+    "chars": 0
+  },
+  {
+    "page": "yarmouk-1569",
+    "setting": "thresh-0.15",
+    "seconds": 33.0,
+    "image": [
+      2496,
+      3508
+    ],
+    "map": [
+      2496,
+      3520
+    ],
+    "map_max": 1.0,
+    "map_p999": 1.0,
+    "share_over_thresh": 0.09618,
+    "thresh": 0.15,
+    "box_thresh": 0.6,
+    "boxes": 0,
+    "chars": 0
+  }
+]

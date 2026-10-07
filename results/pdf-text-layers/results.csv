@@ -1,0 +1,97 @@
+page_id,source_doc,extractor,cer,word_recall,reversed_ligatures
+dubai-law-7-2025_p1,dubai-law-7-2025,pdftotext 26.04.0,0.1013,0.6408,9
+dubai-law-7-2025_p1,dubai-law-7-2025,pdftotext 26.04.0 -layout,0.1346,0.6408,9
+dubai-law-7-2025_p1,dubai-law-7-2025,PyMuPDF 1.28.2 get_text,0.1918,0.6725,9
+dubai-law-7-2025_p1,dubai-law-7-2025,pdfplumber 0.11.10 extract_text,0.7957,0.1444,12
+dubai-law-7-2025_p1,dubai-law-7-2025,pdfplumber 0.11.10 extract_text(char_dir_render='rtl'),0.0816,0.7641,9
+dubai-law-7-2025_p1,dubai-law-7-2025,pypdf 6.19.0 extract_text,0.1066,0.8662,0
+dubai-law-7-2025_p1,dubai-law-7-2025,pdfminer.six 20260107 extract_text,0.7993,0.1444,12
+mohre-labour-law-33-2021_p8R,mohre-labour-law-33-2021,pdftotext 26.04.0,0.1498,0.5842,14
+mohre-labour-law-33-2021_p8R,mohre-labour-law-33-2021,pdftotext 26.04.0 -layout,0.1498,0.5842,14
+mohre-labour-law-33-2021_p8R,mohre-labour-law-33-2021,PyMuPDF 1.28.2 get_text,0.1021,0.7632,18
+mohre-labour-law-33-2021_p8R,mohre-labour-law-33-2021,pdfplumber 0.11.10 extract_text,0.7669,0.1158,0
+mohre-labour-law-33-2021_p8R,mohre-labour-law-33-2021,pdfplumber 0.11.10 extract_text(char_dir_render='rtl'),0.0871,0.7526,18
+dubai-law-7-2025_p2,dubai-law-7-2025,pdftotext 26.04.0,0.1921,0.7686,12
+dubai-law-7-2025_p2,dubai-law-7-2025,pdftotext 26.04.0 -layout,0.3209,0.7686,12
+dubai-law-7-2025_p2,dubai-law-7-2025,PyMuPDF 1.28.2 get_text,0.1738,0.8384,13
+dubai-law-7-2025_p2,dubai-law-7-2025,pdfplumber 0.11.10 extract_text,0.7868,0.048,6
+dubai-law-7-2025_p2,dubai-law-7-2025,pdfplumber 0.11.10 extract_text(char_dir_render='rtl'),0.0732,0.7249,13
+dubai-law-7-2025_p2,dubai-law-7-2025,pypdf 6.19.0 extract_text,0.1133,0.9825,0
+dubai-law-7-2025_p2,dubai-law-7-2025,pdfminer.six 20260107 extract_text,0.7783,0.048,6
+mohre-labour-law-33-2021_p10L,mohre-labour-law-33-2021,pdftotext 26.04.0,0.1492,0.5714,18
+mohre-labour-law-33-2021_p10L,mohre-labour-law-33-2021,pdftotext 26.04.0 -layout,0.1492,0.5714,18
+mohre-labour-law-33-2021_p10L,mohre-labour-law-33-2021,PyMuPDF 1.28.2 get_text,0.1304,0.7619,22
+mohre-labour-law-33-2021_p10L,mohre-labour-law-33-2021,pdfplumber 0.11.10 extract_text,0.7569,0.119,0
+mohre-labour-law-33-2021_p10L,mohre-labour-law-33-2021,pdfplumber 0.11.10 extract_text(char_dir_render='rtl'),0.0906,0.7619,22
+dubai-law-7-2025_p4,dubai-law-7-2025,pdftotext 26.04.0,0.1628,0.717,6
+dubai-law-7-2025_p4,dubai-law-7-2025,pdftotext 26.04.0 -layout,0.216,0.717,6
+dubai-law-7-2025_p4,dubai-law-7-2025,PyMuPDF 1.28.2 get_text,0.1883,0.8443,6
+dubai-law-7-2025_p4,dubai-law-7-2025,pdfplumber 0.11.10 extract_text,0.7855,0.1085,10
+dubai-law-7-2025_p4,dubai-law-7-2025,pdfplumber 0.11.10 extract_text(char_dir_render='rtl'),0.0718,0.7547,7
+dubai-law-7-2025_p4,dubai-law-7-2025,pypdf 6.19.0 extract_text,0.1265,0.9717,0
+dubai-law-7-2025_p4,dubai-law-7-2025,pdfminer.six 20260107 extract_text,0.7793,0.1038,11
+mohre-labour-law-33-2021_p12R,mohre-labour-law-33-2021,pdftotext 26.04.0,0.1459,0.5318,17
+mohre-labour-law-33-2021_p12R,mohre-labour-law-33-2021,pdftotext 26.04.0 -layout,0.1459,0.5318,17
+mohre-labour-law-33-2021_p12R,mohre-labour-law-33-2021,PyMuPDF 1.28.2 get_text,0.162,0.8,23
+mohre-labour-law-33-2021_p12R,mohre-labour-law-33-2021,pdfplumber 0.11.10 extract_text,0.7583,0.0955,0
+mohre-labour-law-33-2021_p12R,mohre-labour-law-33-2021,pdfplumber 0.11.10 extract_text(char_dir_render='rtl'),0.0749,0.7909,21
+dubai-law-7-2025_p6,dubai-law-7-2025,pdftotext 26.04.0,0.1639,0.6414,5
+dubai-law-7-2025_p6,dubai-law-7-2025,pdftotext 26.04.0 -layout,0.1701,0.6414,5
+dubai-law-7-2025_p6,dubai-law-7-2025,PyMuPDF 1.28.2 get_text,0.1353,0.8914,6
+dubai-law-7-2025_p6,dubai-law-7-2025,pdfplumber 0.11.10 extract_text,0.7891,0.0789,12
+dubai-law-7-2025_p6,dubai-law-7-2025,pdfplumber 0.11.10 extract_text(char_dir_render='rtl'),0.0756,0.6809,6
+dubai-law-7-2025_p6,dubai-law-7-2025,pypdf 6.19.0 extract_text,0.0858,0.9704,0
+dubai-law-7-2025_p6,dubai-law-7-2025,pdfminer.six 20260107 extract_text,0.785,0.0822,12
+mohre-labour-law-33-2021_p16L,mohre-labour-law-33-2021,pdftotext 26.04.0,0.1369,0.6398,18
+mohre-labour-law-33-2021_p16L,mohre-labour-law-33-2021,pdftotext 26.04.0 -layout,0.1369,0.6398,18
+mohre-labour-law-33-2021_p16L,mohre-labour-law-33-2021,PyMuPDF 1.28.2 get_text,0.1711,0.7678,22
+mohre-labour-law-33-2021_p16L,mohre-labour-law-33-2021,pdfplumber 0.11.10 extract_text,0.7665,0.1137,0
+mohre-labour-law-33-2021_p16L,mohre-labour-law-33-2021,pdfplumber 0.11.10 extract_text(char_dir_render='rtl'),0.0924,0.7441,22
+dubai-law-7-2025_p8,dubai-law-7-2025,pdftotext 26.04.0,0.101,0.7108,2
+dubai-law-7-2025_p8,dubai-law-7-2025,pdftotext 26.04.0 -layout,0.1422,0.7108,2
+dubai-law-7-2025_p8,dubai-law-7-2025,PyMuPDF 1.28.2 get_text,0.1735,0.8514,2
+dubai-law-7-2025_p8,dubai-law-7-2025,pdfplumber 0.11.10 extract_text,0.7831,0.0843,12
+dubai-law-7-2025_p8,dubai-law-7-2025,pdfplumber 0.11.10 extract_text(char_dir_render='rtl'),0.0825,0.7108,4
+dubai-law-7-2025_p8,dubai-law-7-2025,pypdf 6.19.0 extract_text,0.1181,0.9719,0
+dubai-law-7-2025_p8,dubai-law-7-2025,pdfminer.six 20260107 extract_text,0.7724,0.0843,12
+mohre-labour-law-33-2021_p20R,mohre-labour-law-33-2021,pdftotext 26.04.0,0.1635,0.5638,8
+mohre-labour-law-33-2021_p20R,mohre-labour-law-33-2021,pdftotext 26.04.0 -layout,0.1635,0.5638,8
+mohre-labour-law-33-2021_p20R,mohre-labour-law-33-2021,PyMuPDF 1.28.2 get_text,0.25,0.745,11
+mohre-labour-law-33-2021_p20R,mohre-labour-law-33-2021,pdfplumber 0.11.10 extract_text,0.762,0.1544,0
+mohre-labour-law-33-2021_p20R,mohre-labour-law-33-2021,pdfplumber 0.11.10 extract_text(char_dir_render='rtl'),0.1034,0.7114,11
+dubai-law-7-2025_p10,dubai-law-7-2025,pdftotext 26.04.0,0.1717,0.7257,8
+dubai-law-7-2025_p10,dubai-law-7-2025,pdftotext 26.04.0 -layout,0.1696,0.7257,8
+dubai-law-7-2025_p10,dubai-law-7-2025,PyMuPDF 1.28.2 get_text,0.1265,0.9027,8
+dubai-law-7-2025_p10,dubai-law-7-2025,pdfplumber 0.11.10 extract_text,0.7892,0.0826,12
+dubai-law-7-2025_p10,dubai-law-7-2025,pdfplumber 0.11.10 extract_text(char_dir_render='rtl'),0.065,0.767,9
+dubai-law-7-2025_p10,dubai-law-7-2025,pypdf 6.19.0 extract_text,0.0848,0.9912,0
+dubai-law-7-2025_p10,dubai-law-7-2025,pdfminer.six 20260107 extract_text,0.7831,0.0826,12
+mohre-labour-law-33-2021_p26L,mohre-labour-law-33-2021,pdftotext 26.04.0,0.1427,0.5714,16
+mohre-labour-law-33-2021_p26L,mohre-labour-law-33-2021,pdftotext 26.04.0 -layout,0.1427,0.5714,16
+mohre-labour-law-33-2021_p26L,mohre-labour-law-33-2021,PyMuPDF 1.28.2 get_text,0.1737,0.7744,17
+mohre-labour-law-33-2021_p26L,mohre-labour-law-33-2021,pdfplumber 0.11.10 extract_text,0.7664,0.094,0
+mohre-labour-law-33-2021_p26L,mohre-labour-law-33-2021,pdfplumber 0.11.10 extract_text(char_dir_render='rtl'),0.0882,0.7782,17
+dubai-law-7-2025_p12,dubai-law-7-2025,pdftotext 26.04.0,0.1157,0.687,8
+dubai-law-7-2025_p12,dubai-law-7-2025,pdftotext 26.04.0 -layout,0.1549,0.687,8
+dubai-law-7-2025_p12,dubai-law-7-2025,PyMuPDF 1.28.2 get_text,0.1775,0.855,8
+dubai-law-7-2025_p12,dubai-law-7-2025,pdfplumber 0.11.10 extract_text,0.7872,0.0954,4
+dubai-law-7-2025_p12,dubai-law-7-2025,pdfplumber 0.11.10 extract_text(char_dir_render='rtl'),0.0811,0.7481,9
+dubai-law-7-2025_p12,dubai-law-7-2025,pypdf 6.19.0 extract_text,0.1144,0.9618,0
+dubai-law-7-2025_p12,dubai-law-7-2025,pdfminer.six 20260107 extract_text,0.7753,0.0954,4
+mohre-labour-law-33-2021_p32R,mohre-labour-law-33-2021,pdftotext 26.04.0,0.6474,0.7,2
+mohre-labour-law-33-2021_p32R,mohre-labour-law-33-2021,pdftotext 26.04.0 -layout,0.3499,0.7,2
+mohre-labour-law-33-2021_p32R,mohre-labour-law-33-2021,PyMuPDF 1.28.2 get_text,0.3444,0.4,12
+mohre-labour-law-33-2021_p32R,mohre-labour-law-33-2021,pdfplumber 0.11.10 extract_text,0.741,0.35,0
+mohre-labour-law-33-2021_p32R,mohre-labour-law-33-2021,pdfplumber 0.11.10 extract_text(char_dir_render='rtl'),0.2094,0.4,13
+dubai-law-7-2025_p14,dubai-law-7-2025,pdftotext 26.04.0,0.1938,0.7033,5
+dubai-law-7-2025_p14,dubai-law-7-2025,pdftotext 26.04.0 -layout,0.1863,0.7033,5
+dubai-law-7-2025_p14,dubai-law-7-2025,PyMuPDF 1.28.2 get_text,0.1584,0.8535,5
+dubai-law-7-2025_p14,dubai-law-7-2025,pdfplumber 0.11.10 extract_text,0.7894,0.0952,8
+dubai-law-7-2025_p14,dubai-law-7-2025,pdfplumber 0.11.10 extract_text(char_dir_render='rtl'),0.0783,0.7179,6
+dubai-law-7-2025_p14,dubai-law-7-2025,pypdf 6.19.0 extract_text,0.1025,0.9927,0
+dubai-law-7-2025_p14,dubai-law-7-2025,pdfminer.six 20260107 extract_text,0.777,0.0989,8
+mohre-labour-law-33-2021_p38L,mohre-labour-law-33-2021,pdftotext 26.04.0,0.158,0.5515,19
+mohre-labour-law-33-2021_p38L,mohre-labour-law-33-2021,pdftotext 26.04.0 -layout,0.158,0.5515,19
+mohre-labour-law-33-2021_p38L,mohre-labour-law-33-2021,PyMuPDF 1.28.2 get_text,0.1449,0.7938,22
+mohre-labour-law-33-2021_p38L,mohre-labour-law-33-2021,pdfplumber 0.11.10 extract_text,0.777,0.1186,0
+mohre-labour-law-33-2021_p38L,mohre-labour-law-33-2021,pdfplumber 0.11.10 extract_text(char_dir_render='rtl'),0.0837,0.7784,22
