@@ -12,9 +12,9 @@ pages and the scores. It holds no page image, no PDF and no transcription:
 
 ## Results (2026-10-07)
 
-The full real-scan run was stopped on 2026-10-07 after Surya's 45th page, to write up
-what was already measured. Nothing is extrapolated: each table below only uses pages
-that every engine in it finished (`bench.score --common`). Per-page numbers are in the
+Not every engine read every page: Surya read 44 of the 96 real pages, Docling 9, and
+the paid models 10. Nothing is extrapolated: each table below only uses pages that
+every engine in it read (`bench.score --common`). Per-page numbers are in the
 `results.csv` next to each summary.
 
 | Results folder | Pages | Engines | What it answers |
@@ -34,7 +34,7 @@ that every engine in it finished (`bench.score --common`). Per-page numbers are 
 Mean CER on the 44 real pages (lower is better): Surya 3.9%, Apple Live Text 5.0%,
 Apple Vision 8.1%, EasyOCR 18.7%, Tesseract 19.7%, PaddleOCR 33.5%.
 
-Not measured, because the run was stopped: Surya on 52 of the 96 real pages, Docling on
+Not measured: Surya on 52 of the 96 real pages, Docling on
 real pages (except the 9 above). Gemini 3.5 Flash read the 10-page real small set in a
 separate run: 1.6% CER, against 3.5% for Apple Vision and 4.3% for Surya on the same pages.
 Six OpenRouter models read the same 10 pages: Gemini 3.8 Flash 1.9% (0.3 cents a page),
@@ -386,7 +386,7 @@ These are the exact commands behind the folders in [Results](#results-2026-10-07
 write into the published folders, so `git diff` shows what changed on your machine.
 
 ```bash
-# the real-scan run, stopped after Surya's 45th page (no Gemini step)
+# the real-scan run (no Gemini step): Surya read 44 of its 96 pages
 mkdir -p results/2026-10-07-realscans
 OUT=results/2026-10-07-realscans nohup scripts/run_full.sh --kind real-scan > results/2026-10-07-realscans/run.log 2>&1 & disown
 
